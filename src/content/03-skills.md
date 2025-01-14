@@ -1,13 +1,12 @@
 ## Skills
 
-- Writing C# behaviors in **Unity** for intended purposes
-- Having a good understanding of object-oriented programming to create modular-based scripts
-- The Unity Real-Time engine to create games and experiences
-- The AR Foundation Framework to create mobile AR applications
-- The **XR Interaction Toolkit** in Unity to create VR experiences
-- Experience with a variety of Unity packages like **Splines, NewtonSoft, and DOTween**
-- Using **Blender 3D** to create 3D models for projects
-- Creating **Procedural** Shaders and Systems to generate texture and geometry for objects in Blender
+### Proficient in 
+- Ethical hacking utilizing various _offensive security tools_ like Kali Linux, Metasploit, Nikto
+- Penetration Testing with expertise in _vulnerability scanning_ and _exploitation_
+- _Wireshark_, _Nmap_, and _Splunk_ for network analysis and monitoring
+- Scripting using _python_ and _bash_
+- Making backends using _Django_
+- _object-oriented programming_ to create modular-based scripts
 
 
 ### Additional skills
@@ -19,3 +18,5 @@
 ### Languages
 
 - English (fluent)
+- Hindi (native)
+- French (elementary)

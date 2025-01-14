@@ -10,9 +10,9 @@ QS award-winning student-led research lab of 5 departments dedicated to working
 on latest technologies in their fields, including ML, Game and App Development,
 Extended Reality, Cryptography/Cyber-Security and IOT
 
-  - Took up responsibilities such as interviews and checkins to help maintain the crowd of Satoshi lab
-  - Participated in Events and contributed to Lab related Work
-  - Received guidance from seniors and guided my juniors
+  - Took up responsibilities such as interviews and checkins to help maintain the crowd of Satoshi lab.
+  - Participated in events and contributed to lab related work.
+  - Received guidance from seniors and guided my juniors.
 
   > _Management_ _Computer Networking_ _Cybersecurity_ _Cryptography_ _Python_
 
@@ -27,7 +27,7 @@ Extended Reality, Cryptography/Cyber-Security and IOT
 
   - Organized 10+ cybersecurity events like ethical hacking competitions with audiences of over 500 students
   - Coordinated and mentored a team of 100+ students in organizing the events, workshops, and training sessions.
-  - Competed in several Capture the Flag competitions achieving highest national rank of 14
+  - Competed in several Capture the Flag competitions achieving highest national rank of 14.
   - Collaborated with Null Chennai and OWASP Chennai meetup for live ethical hacking events at IIT Madras for 150+ students.
 
   > _Leadership_ _Penetration Testing_ _BurpSuite_ _Network Security_ _Vulnerability Management_ _Python_ _Web Exploitation_ _Networking_
@@ -38,46 +38,15 @@ Extended Reality, Cryptography/Cyber-Security and IOT
 
   #### Malware Analyst
   
-  A data analytics company that provides data for clients related to activity done in VR
+  - Conducted in-depth static and dynamic APK malware analysis, using advanced tools and techniques to identify, reverse-engineer, and mitigate security threats in Android applications.
+  - Collaborated with the cybersecurity team to develop effective strategies for detecting and preventing malware.
 
-  - Created a replay system for object transform data collection and distribution
-  - Wrote data serialization for Object transforms and hand pose data for later use
-  - Handled seamless access and validation of customer API keys and uploaded data to the Amazon S3 bucket
-  - Created an API for the Unity package for customers
-  - Worked with others to allow replay of motion in real time through 3JS
-
-  > _Unity_ _XR Interaction Toolkit_ _Ultimate XR_ _C#_ _NewtonSoft_ _ThreeJs_ _Blender_ _Amazon S3_
-
-- ##### July 2022 - Oct 2023
-
-  ### Realm18Studios
-
-  #### Assistant Story Writer and Basic Terrain Modeller
-  
-  - Created Terrain in Unity using sculpting tools and texture painting, used Blender
-to make initial design
-  - Made story elements for the game, including character back story, world lore, etc
-
-  > _Unity_ _Blender_ _Notion_ _Discord_
-
-- ##### April 2023 - Present
-
-  ### Gen - Y
-
-  #### Board Member of AR/VR Domain
-  
-  - Managed the Domain and maintained interest in the field among members
-
-  > _Unity_ _AR Foundation_
+  > _Reverse Engineering_ _Forensics_ _Malware Analysis_ _Android_ _Sandboxing_ 
 
 
-- ##### June 7th 2004
-  ### Born
+- ##### May 5th, 2004
+  ### Spawned
 #### Human
-  
-  - Came into this world
-  - Was provided a Security key linked to biological physiology (D.N.A)
-
   > _India_
 
 <style lang="scss">
