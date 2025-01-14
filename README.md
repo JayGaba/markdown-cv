@@ -1,21 +1,21 @@
 ### Hello! My name is
 
-# Dhruv Bhojaraj
+# JAYESH GABA
 
-and XR Developer
-***
+and I'm into Cybersecurity
+
+---
 
 ## About me
 
-An Aspiring XR developer with a Quest 2 in my hands...
+A cybersecurity enthusiast who loves to break things ethically and build offensive security tools that push the boundaries of digital defense. The best way to defend is to understand how to attack.
 
-In love with coding, sound, and visuals.
-
-- [kraaven.me](https://kraaven.me)
-- [dhruv.bhojaraj@gmail.com](mailto:dhruv.bhojaraj@gmail.com)
+- [jayeshgaba.tech](https://jayeshgaba.tech)
+- [jayeshgaba@gmail.com](mailto:jayeshgaba@gmail.com)
 
 ### Follow
 
-- [github.com/Kraaven](https://github.com/Kraaven)
-- [/in/DhruvBhojaraj](https://www.linkedin.com/in/dhruv-bhojaraj-787485250/)
-***
+- [github.com/JayGaba](https://github.com/JayGaba)
+- [/in/JayeshGaba](https://www.linkedin.com/in/jayesh-gaba/)
+
+---

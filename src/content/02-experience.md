@@ -1,45 +1,42 @@
 ## Experience
 
-- ##### Jan 2023 – Present
+- ##### Nov 2023 – Present
 
   ### Next Tech Lab
 
-  #### Board Member of Pausch
+  #### Member of Satoshi
   
 QS award-winning student-led research lab of 5 departments dedicated to working
 on latest technologies in their fields, including ML, Game and App Development,
 Extended Reality, Cryptography/Cyber-Security and IOT
 
-  - Handled Management of Pausch Lab, taking interviews and handling events such
-as game-jams.
+  - Took up responsibilities such as interviews and checkins to help maintain the crowd of Satoshi lab
   - Participated in Events and contributed to Lab related Work
-  - Received guidance from great seniors and guided my juniors
+  - Received guidance from seniors and guided my juniors
 
-  > _Management_
+  > _Management_ _Computer Networking_ _Cybersecurity_ _Cryptography_ _Python_
 
 
-- ##### Sept 2024 - Jan 2025
+- ##### Apr 2023 - Present
 
-  ### Smollan (For Google)
+  ### HackTheBox Chennai
 
-  #### AR Development Intern
+  #### President
 
-  A company that takes projects outsourced from other organizations.  In this case, through Google
+  Leading Asia's largest meetup of HackTheBox
 
-  - Created interaction advertisements using the Unity UI Toolkit
-  - Did R&D for running object detection Tflite models in Flutter
-  - Did R&D for executing TensorFlow and Onyx object detection in Unity
-  - Created object detection-based 3D advertisements for Google products via Vuforia
-  - Built an AR application for customers to place furniture optimally in living spaces
-  - Integrated generative AI to allow customers flexible texture options for their furniture
+  - Organized 10+ cybersecurity events like ethical hacking competitions with audiences of over 500 students
+  - Coordinated and mentored a team of 100+ students in organizing the events, workshops, and training sessions.
+  - Competed in several Capture the Flag competitions achieving highest national rank of 14
+  - Collaborated with Null Chennai and OWASP Chennai meetup for live ethical hacking events at IIT Madras for 150+ students.
 
-  > _Unity_ _UI Toolkit_ _Unity Barracuda_ _Unity Sentris_ _Flutter_ _Vuforia_ _AR Foundation_ _Firebase_
- _ChatGPT_ 
-- ##### Feb 2024 – May 2024
+  > _Leadership_ _Penetration Testing_ _BurpSuite_ _Network Security_ _Vulnerability Management_ _Python_ _Web Exploitation_ _Networking_
 
-  ### Insight XR
+- ##### Nov 2024 – Jan 2025
 
-  #### VR Development Intern
+  ### Indian Institute of Technology, Jammu
+
+  #### Malware Analyst
   
   A data analytics company that provides data for clients related to activity done in VR
 

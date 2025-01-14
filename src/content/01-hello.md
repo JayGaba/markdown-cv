@@ -1,15 +1,14 @@
 ## About me
 
-An XR developer with a Quest 2 in my hands...
+A cybersecurity enthusiast who loves to break things ethically and build offensive security tools that push the boundaries of digital defense. The best way to defend is to understand how to attack.
 
-In love with coding, sound, and visuals.
-
-- [kraaven.me](https://kraaven.me)
-- [dhruv.bhojaraj@gmail.com](mailto:dhruv.bhojaraj@gmail.com)
+- [jayeshgaba.tech](https://jayeshgaba.tech)
+- [jayeshgaba@gmail.com](mailto:jayeshgaba@gmail.com)
 - <a href="/resume.pdf" alt="Download Resume" target="_blank">Download Resume</a>
 
 ### Follow
 
-- [github.com/Kraaven](https://github.com/Kraaven)
-- [artstation.com/DhruvBhojaraj](https://www.artstation.com/dhruvbhojaraj5)
-- [/in/DhruvBhojaraj](https://www.linkedin.com/in/dhruv-bhojaraj-787485250/)
+- [/in/JayeshGaba](https://www.linkedin.com/in/jayesh-gaba/)
+- [TryHackMe](https://tryhackme.com/p/Thnts)
+- [HackTheBox](https://app.hackthebox.com/profile/1478033)
+- [github.com/JayGaba](https://github.com/JayGaba)

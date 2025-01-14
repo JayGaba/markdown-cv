@@ -1,5 +1,4 @@
 ### Hello! My name is
+# jaYESH GABA
 
-# Dhruv Bhojaraj
-
-and I'm an XR Developer.
+and I'm into Cybersecurity.
