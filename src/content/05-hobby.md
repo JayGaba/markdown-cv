@@ -1,15 +1,13 @@
 ## After Hours
 
-### Cooking
+### Music
 
-- I like making food for other people, generally taking up a challenge and having cook - offs with other people
-- Like to try making new Recipes and bake **sweets**
+- helps me unwind and relax, or get into the right zone when needed.
 
-### Games
+### Gaming
 
-- I love playing games and experiencing new stories mechanics
-- I am a sucker for puzzle games, like **Portal**, Portal 2, Quantum Conundrum, Q.U.B.E, Relicta, The RoomVR
+- GTA, RDR, and Far Cry – can’t beat the classics.
 
 ### Sleeping
 
-- I need my 8 hours of sleep.
+- Trying my best to get 8 hours of sleep.

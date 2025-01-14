@@ -6,6 +6,7 @@
   import Hello from '../content/01-hello.md';
   import Experience from '../content/02-experience.md';
   import Skills from '../content/03-skills.md';
+  import Accreditations from '../content/03.5-accreditations.md';
   import Projects from '../content/02.5-projects.md';
   import Education from '../content/04-education.md';
   import Hobby from '../content/05-hobby.md';
@@ -16,6 +17,7 @@
     { id: 'experience', component: Experience },
     { id: 'projects', component: Projects },
     { id: 'skills', component: Skills },
+    { id: 'accreditations', component: Accreditations },
     { id: 'education', component: Education },
     { id: 'hobby', component: Hobby },
   ];
