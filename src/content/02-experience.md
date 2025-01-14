@@ -1,4 +1,19 @@
-## Experience
+## $ journalctl
+  
+- ##### Apr 2023 - Present
+
+  ### HackTheBox Chennai
+
+  #### President
+
+  Leading Asia's largest meetup of HackTheBox
+
+  - Organized 10+ cybersecurity events like ethical hacking competitions with audiences of over 500 students
+  - Coordinated and mentored a team of 100+ students in organizing the events, workshops, and training sessions.
+  - Competed in several Capture the Flag competitions achieving highest national rank of 14.
+  - Collaborated with Null Chennai and OWASP Chennai meetup for live ethical hacking events at IIT Madras for 150+ students.
+
+  > _Leadership_ _Penetration Testing_ _BurpSuite_ _Network Security_ _Vulnerability Management_ _Python_ _Web Exploitation_ _Networking_
 
 - ##### Nov 2023 – Present
 
@@ -16,22 +31,6 @@ Extended Reality, Cryptography/Cyber-Security and IOT
 
   > _Management_ _Computer Networking_ _Cybersecurity_ _Cryptography_ _Python_
 
-
-- ##### Apr 2023 - Present
-
-  ### HackTheBox Chennai
-
-  #### President
-
-  Leading Asia's largest meetup of HackTheBox
-
-  - Organized 10+ cybersecurity events like ethical hacking competitions with audiences of over 500 students
-  - Coordinated and mentored a team of 100+ students in organizing the events, workshops, and training sessions.
-  - Competed in several Capture the Flag competitions achieving highest national rank of 14.
-  - Collaborated with Null Chennai and OWASP Chennai meetup for live ethical hacking events at IIT Madras for 150+ students.
-
-  > _Leadership_ _Penetration Testing_ _BurpSuite_ _Network Security_ _Vulnerability Management_ _Python_ _Web Exploitation_ _Networking_
-
 - ##### Nov 2024 – Jan 2025
 
   ### Indian Institute of Technology, Jammu
@@ -43,9 +42,8 @@ Extended Reality, Cryptography/Cyber-Security and IOT
 
   > _Reverse Engineering_ _Forensics_ _Malware Analysis_ _Android_ _Sandboxing_ 
 
-
 - ##### May 5th, 2004
-  ### Spawned
+  ### init
 #### Human
   > _India_
 

@@ -2,7 +2,7 @@
 
 ### Music
 
-- helps me unwind and relax, or get into the right zone when needed.
+- Helps me unwind and relax, or get into the right zone when needed.
 
 ### Gaming
 

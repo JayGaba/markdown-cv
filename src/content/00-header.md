@@ -1,4 +1,4 @@
 ### Hello! My name is
-# jaYESH GABA
+# JAYESH GABA
 
-and I'm into Cybersecurity.
+and I'm into Cybersecurity

@@ -11,9 +11,9 @@
 
 ### Additional skills
 
-- very good **communication** and **interpersonal** skills
-- **reliable** and **focused** on providing high-quality products
-- **fast learner** and always willing to **share knowledge**
+- good _leadership_ and _management_ skills
+- _reliable_ and _focused_ on providing high-quality products
+- _fast learner_ and always willing to _share knowledge_
 
 ### Languages
 
