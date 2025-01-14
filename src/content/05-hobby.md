@@ -1,4 +1,4 @@
-## After Hours
+## $ fortune
 
 ### Music
 

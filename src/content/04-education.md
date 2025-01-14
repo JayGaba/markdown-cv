@@ -1,4 +1,4 @@
-## Education
+## $ info
 
 ### Bachelor of Technology (B. Tech.) with spl. in Cybersecurity
 
