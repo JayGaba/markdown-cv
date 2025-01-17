@@ -8,7 +8,7 @@ A cybersecurity enthusiast who loves to break things ethically and build offensi
 
 ### $ watch
 
-- [/in/JayeshGaba](https://www.linkedin.com/in/jayesh-gaba/)
-- [TryHackMe](https://tryhackme.com/p/Thnts)
-- [HackTheBox](https://app.hackthebox.com/profile/1478033)
-- [github.com/JayGaba](https://github.com/JayGaba)
+- <a href="https://www.linkedin.com/in/jayesh-gaba/" target="_blank" rel="noopener noreferrer">/in/JayeshGaba</a>
+- <a href="https://tryhackme.com/p/Thnts" target="_blank" rel="noopener noreferrer">TryHackMe</a>
+- <a href="https://app.hackthebox.com/profile/1478033" target="_blank" rel="noopener noreferrer">HackTheBox</a>
+- <a href="https://github.com/JayGaba" target="_blank" rel="noopener noreferrer">github.com/JayGaba</a>
