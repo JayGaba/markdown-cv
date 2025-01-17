@@ -1,4 +1,14 @@
 ## $ journalctl
+- ##### Nov 2024 – Jan 2025
+
+  ### Indian Institute of Technology, Jammu
+
+  #### Malware Analyst
+  
+  - Conducted in-depth static and dynamic APK malware analysis, using advanced tools and techniques to identify, reverse-engineer, and mitigate security threats in Android applications.
+  - Collaborated with the cybersecurity team to develop effective strategies for detecting and preventing malware.
+
+  > _Reverse Engineering_ _Forensics_ _Malware Analysis_ _Android_ _Sandboxing_ 
   
 - ##### Apr 2023 - Present
 
@@ -30,17 +40,6 @@ Extended Reality, Cryptography/Cyber-Security and IOT
   - Received guidance from seniors and guided my juniors.
 
   > _Management_ _Computer Networking_ _Cybersecurity_ _Cryptography_ _Python_
-
-- ##### Nov 2024 – Jan 2025
-
-  ### Indian Institute of Technology, Jammu
-
-  #### Malware Analyst
-  
-  - Conducted in-depth static and dynamic APK malware analysis, using advanced tools and techniques to identify, reverse-engineer, and mitigate security threats in Android applications.
-  - Collaborated with the cybersecurity team to develop effective strategies for detecting and preventing malware.
-
-  > _Reverse Engineering_ _Forensics_ _Malware Analysis_ _Android_ _Sandboxing_ 
 
 - ##### May 5th, 2004
   ### init

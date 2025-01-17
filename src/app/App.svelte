@@ -15,7 +15,7 @@
   const sections = [
     { id: 'hello', component: Hello },
     { id: 'experience', component: Experience },
-    { id: 'projects', component: Projects },
+    //{ id: 'projects', component: Projects },
     { id: 'skills', component: Skills },
     { id: 'accreditations', component: Accreditations },
     { id: 'education', component: Education },
